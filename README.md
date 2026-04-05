@@ -81,7 +81,7 @@ cd TouTiao
     ```
     若项目根目录有 `requirements.txt`，可直接执行：
     ```bash
-    pip install -r requirements.txt
+    pip install -r requirements_old.txt
     ```
 
 3.  数据库配置
